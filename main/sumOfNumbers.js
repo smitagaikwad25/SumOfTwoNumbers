@@ -18,4 +18,3 @@ module.exports = {
         return c;
     }
 }
-// module.exports = sum

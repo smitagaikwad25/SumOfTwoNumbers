@@ -47,14 +47,5 @@ describe('Test Cases for Sum Of Numberes', () => {
         var values = sum.sum(3,2)
         assert.equal(5, values)
     })
-
-
-    
-
-
-
-
-
-
 })
 
